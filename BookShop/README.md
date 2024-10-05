@@ -1,6 +1,6 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信 zheng0123Long**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信  zheng0123Long**
 
 #图书商城管理系统 #java web #java #毕业设计 #课程设计 #编程 #jsp #servlet #源代码 #bootstrap #mysql
 
@@ -75,9 +75,9 @@ http://localhost:8585/BookShop/admin/index.jsp
    注：tomcat中配置项目路径必须为BookShop，否则会有异常；
    
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信 zheng0123Long**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信  zheng0123Long**
 
 
 
